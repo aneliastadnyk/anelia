@@ -30,7 +30,7 @@ public class my {
         int v = b*b-c/t+n;         // 2 приклад
         double q = r+y*x*a*u*(g-j+n+w)/u;    //3 приклад
         int h = u+n-s/a+l;         // 4 приклад
-        System.out.println( "Розв'язок першого прикладу:" + k);
+        System.out.println("Розв'язок першого прикладу:" + k);
         System.out.println("Розв'язок другого прикладу:" + v);
         System.out.println("Розв'язок третього прикладу:" +q);
         System.out.println("Розв'язок четвертього прикладу:" + h);
